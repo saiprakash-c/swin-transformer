@@ -69,6 +69,16 @@ To use this fine-tuned model for inference, follow the steps below:
    python vit_inference.py <image_path>
    ```
 
+## ToDo
+- [ ] Upload preprocessing config to huggingface
+- [ ] Include images of misclassifications
+- [ ] Update model card in huggingface
+- [ ] Add train/eval loss plot 
+
 ## References
 
 J. Stallkamp, M. Schlipsing, J. Salmen, C. Igel, Man vs. computer: Benchmarking machine learning algorithms for traffic sign recognition, Neural Networks, Available online 20 February 2012, ISSN 0893-6080, 10.1016/j.neunet.2012.02.016
+
+
+
+
